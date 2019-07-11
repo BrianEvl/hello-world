@@ -1,0 +1,13 @@
+var nameCharacter = "Brian"
+var ageCharacter = 23
+let genderCharacter = "Male"
+
+let sentence = "\(nameCharacter), \(ageCharacter) years old and \(genderCharacter)"
+
+// Fin de prueba
+
+// Inicio de funciones
+
+func cosasFavoritas () {
+ bandaFavorita = "Green Day"
+let 
